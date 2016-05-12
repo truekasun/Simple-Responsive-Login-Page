@@ -3,7 +3,7 @@ Simple Responsive Login Page - Template
 
 ![Preview of the template](https://raw.githubusercontent.com/truekasun/Simple-Responsive-Login-Page/master/preview.png)
 
-**Simple Responsive Login Page** template is initially designed to a template phpFox social networking script as a landing page. This template is only the front-end designed using [Twitter-Bootstrap](http://getbootstrap.com/), [FontAwesome](http://fontawesome.io/) and [Awesome Bootstrap Checkbox](https://github.com/flatlogic/awesome-bootstrap-checkbox) and not containing any backend processes.
+**Simple Responsive Login Page** template is initially designed to a theme of phpFox social networking script as a landing page. This template is only the front-end designed using [Twitter-Bootstrap](http://getbootstrap.com/), [FontAwesome](http://fontawesome.io/) and [Awesome Bootstrap Checkbox](https://github.com/flatlogic/awesome-bootstrap-checkbox) and not containing any backend processes.
 
 ---------
 
